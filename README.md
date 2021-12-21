@@ -8,7 +8,7 @@ Skills: Java / Python / JS / HTML / CSS /  SQL / Hibernate / Linux / Networking
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thevic16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/víctor-gómez-a34159205)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thevic16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/víctor-gómez-a34159205/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thevic16)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -21,4 +21,6 @@ Skills: Java / Python / JS / HTML / CSS /  SQL / Hibernate / Linux / Networking
 ![GitHub metrics](https://metrics.lecoq.io/Thevic16)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Thevic16)  
+
+
 
