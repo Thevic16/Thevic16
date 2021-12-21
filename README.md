@@ -1,4 +1,4 @@
-### Hi there 👋, Víctor Gómez
+### Víctor Gómez
 #### Telematics Engineering
 ![Telematics Engineering](https://github.com/Thevic16/Thevic16/blob/main/Room-Name-Full.jpg)
 
