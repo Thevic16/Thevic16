@@ -1,6 +1,6 @@
 ### Hi there 👋, Víctor Gómez
 #### Telematics Engineering
-![Telematics Engineering](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinkedinbackground.com%2Ftags%2Fprogramming&psig=AOvVaw01pDO5eUQFuXCPkpqUbHi8&ust=1640210720510000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDCusnz9fQCFQAAAAAdAAAAABAD)
+![Telematics Engineering](https://github.com/Thevic16/Thevic16/blob/main/Room-Name-Full.jpg)
 
 Final semester telematics engineering student, currently finishing a project related to the implementation of an electronic system that allows transforming a conventional wheelchair into a device that helps disabled people to move more comfortably and safely, through electronic components and a web application that allows proper monitoring.
 
