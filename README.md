@@ -2,9 +2,17 @@
 #### Telematics Engineer
 ![Telematics Engineering](https://github.com/Thevic16/Thevic16/blob/main/Room-Name-Full.jpg)
 
-Final semester telematics engineering student, currently finishing a project related to the implementation of an electronic system that allows transforming a conventional wheelchair into a device that helps disabled people to move more comfortably and safely, through electronic components and a web application that allows proper monitoring.
+"Now is better than never. Although never is often better than *right* now."
 
-Skills: Java / Python / JS / HTML / CSS /  SQL / Hibernate / Linux / Networking
+Programming lover, who keeps learning and looking for new challenges to conquer. I would like to be part of new and innovative contributions in the area of technology that help improve the quality of life of society.
+
+I'm a Back-End Python Developer with experience in some of the most popular frameworks in this programming language. I consider communication and teamwork very important.
+
+Regardless of how important it is to get results, I always keep in mind that great things take time.
+
+Skills: Python / Git / Object-Oriented Programming (OOP) / SOLID Design Principles  / 
+Unit Testing / SQL / PostgreSQL / Django / Django REST Framework / 
+JSON Web Token (JWT) / Heroku / Postman API / Flask / FastAPI / GraphQL
 
 
 
