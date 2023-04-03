@@ -6,13 +6,14 @@
 
 Programming lover, who keeps learning and looking for new challenges to conquer. I would like to be part of new and innovative contributions in the area of technology that help improve the quality of life of society.
 
-I'm a Back-End Python Developer with experience in some of the most popular frameworks in this programming language. I consider communication and teamwork very important.
+I'm a Back-End Developer with experience in some of the most popular frameworks in Python and Scala programming languages. I consider communication and teamwork very important.
 
 Regardless of how important it is to get results, I always keep in mind that great things take time.
 
 Skills: Python / Git / Object-Oriented Programming (OOP) / SOLID Design Principles  / 
 Unit Testing / SQL / PostgreSQL / Django / Django REST Framework / 
-JSON Web Token (JWT) / Heroku / Postman API / Flask / FastAPI / GraphQL
+JSON Web Token (JWT) / Heroku / Postman API / Flask / FastAPI / GraphQL / Reactive Streams
+/ Akka Clusters Fundamentals / Akka Cluster - Sharding / Scala / Functional Programming / Lightbend Telemetry / Akka for Scala / Reactive Programming Paradigm / Akka HTTP & Persistence / Software Testing / Apache Kafka / Akka Streams Professional
 
 
 
